@@ -1,6 +1,6 @@
-package src.main.java.dat.backend.model.config;
+package main.java.dat.backend.model.config;
 
-import src.main.java.dat.backend.model.persistence.ConnectionPool;
+import main.java.dat.backend.model.persistence.ConnectionPool;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

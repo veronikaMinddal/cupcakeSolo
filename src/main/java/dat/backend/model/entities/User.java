@@ -1,4 +1,4 @@
-package src.main.java.dat.backend.model.entities;
+package main.java.dat.backend.model.entities;
 
 import java.util.Objects;
 

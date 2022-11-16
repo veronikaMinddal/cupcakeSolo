@@ -1,4 +1,4 @@
-package src.main.java.dat.backend.model.exceptions;
+package main.java.dat.backend.model.exceptions;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

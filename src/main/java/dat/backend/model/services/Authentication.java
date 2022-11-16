@@ -1,4 +1,4 @@
-package src.main.java.dat.backend.model.services;
+package main.java.dat.backend.model.services;
 
 import dat.backend.model.entities.User;
 import javax.servlet.http.HttpServletRequest;

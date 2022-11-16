@@ -1,4 +1,4 @@
-package src.main.java.dat.backend.model.persistence;
+package main.java.dat.backend.model.persistence;
 
 import dat.backend.model.entities.User;
 import dat.backend.model.exceptions.DatabaseException;

@@ -1,4 +1,4 @@
-package src.main.java.dat.backend.control;
+package main.java.dat.backend.control;
 
 import dat.backend.model.persistence.ConnectionPool;
 
